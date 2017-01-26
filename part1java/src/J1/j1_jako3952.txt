@@ -1,0 +1,152 @@
+[
+{
+	"id":0,
+	"first_name":"Isabella",
+	"last_name":"Beck",
+	"CPR":"21958419088",
+	"date_of_birth":"1919-95-21",
+	"email":"IsabellaBeck0@Beckemailhost.com",
+	"address":{
+		"street":"Attebjergvej",
+		"number":"415",
+		"zip_code":"7755",
+		"city":"Bedsted"
+	},
+	"institution_name":"Smart Learning"
+},
+{
+	"id":1,
+	"first_name":"Sofie",
+	"last_name":"Bech",
+	"CPR":"65524054904",
+	"date_of_birth":"1954-52-65",
+	"email":"SofieBech1@Bechemailhost.com",
+	"address":{
+		"street":"Ankervej",
+		"number":"412",
+		"zip_code":"1054",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi SydVest"
+},
+{
+	"id":2,
+	"first_name":"Alice",
+	"last_name":"Bjerre",
+	"CPR":"28162255559",
+	"date_of_birth":"1955-16-28",
+	"email":"AliceBjerre2@Bjerreemailhost.com",
+	"address":{
+		"street":"Anemonevej",
+		"number":"276",
+		"zip_code":"7850",
+		"city":"Stoholm"
+	},
+	"institution_name":"Erhvervsakademi Sjælland"
+},
+{
+	"id":3,
+	"first_name":"Mathilde",
+	"last_name":"Bak",
+	"CPR":"10232955481",
+	"date_of_birth":"1955-23-10",
+	"email":"MathildeBak3@Bakemailhost.com",
+	"address":{
+		"street":"Agertoften",
+		"number":"291",
+		"zip_code":"1050",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi Sjælland"
+},
+{
+	"id":4,
+	"first_name":"Mathilde",
+	"last_name":"Andersen",
+	"CPR":"51008868551",
+	"date_of_birth":"1968-00-51",
+	"email":"MathildeAndersen4@Andersenemailhost.com",
+	"address":{
+		"street":"Ahornvej",
+		"number":"36",
+		"zip_code":"1055",
+		"city":"København"
+	},
+	"institution_name":"KEA - Københavns Erhvervsakademi"
+},
+{
+	"id":5,
+	"first_name":"Laura",
+	"last_name":"Bach",
+	"CPR":"94150259651",
+	"date_of_birth":"1959-15-94",
+	"email":"LauraBach5@Bachemailhost.com",
+	"address":{
+		"street":"Appenæs Bygade",
+		"number":"76",
+		"zip_code":"1052",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademiet Lillebælt"
+},
+{
+	"id":6,
+	"first_name":"William",
+	"last_name":"Berg",
+	"CPR":"86768016783",
+	"date_of_birth":"1916-76-86",
+	"email":"WilliamBerg6@Bergemailhost.com",
+	"address":{
+		"street":"Alfehøjen",
+		"number":"415",
+		"zip_code":"7790",
+		"city":"Thyholm"
+	},
+	"institution_name":"Erhvervsakademiet Lillebælt"
+},
+{
+	"id":7,
+	"first_name":"Sofia",
+	"last_name":"Andersson",
+	"CPR":"25106090977",
+	"date_of_birth":"1990-10-25",
+	"email":"SofiaAndersson7@Anderssonemailhost.com",
+	"address":{
+		"street":"Appenæshoved",
+		"number":"271",
+		"zip_code":"1053",
+		"city":"København"
+	},
+	"institution_name":"EA MidtVest"
+},
+{
+	"id":8,
+	"first_name":"Ida",
+	"last_name":"Bak",
+	"CPR":"17784656835",
+	"date_of_birth":"1956-78-17",
+	"email":"IdaBak8@Bakemailhost.com",
+	"address":{
+		"street":"Anlægsvej",
+		"number":"165",
+		"zip_code":"7790",
+		"city":"Thyholm"
+	},
+	"institution_name":"Erhvervsakademi Dania"
+},
+{
+	"id":9,
+	"first_name":"Freja",
+	"last_name":"Bjerregaard",
+	"CPR":"70845005373",
+	"date_of_birth":"1905-84-70",
+	"email":"FrejaBjerregaard9@Bjerregaardemailhost.com",
+	"address":{
+		"street":"Anneksvej",
+		"number":"203",
+		"zip_code":"1053",
+		"city":"København"
+	},
+	"institution_name":"EA MidtVest"
+}
+]

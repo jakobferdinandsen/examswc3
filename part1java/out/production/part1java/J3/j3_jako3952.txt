@@ -1,0 +1,152 @@
+[
+{
+	"id":0,
+	"first_name":"Noah",
+	"last_name":"Bjerre",
+	"CPR":"2512605935",
+	"date_of_birth":"1960-12-25",
+	"email":"NoahBjerre0@gmail.com",
+	"address":{
+		"street":"Appenæs Bygade",
+		"number":"16 27. tv.",
+		"zip_code":"7790",
+		"city":"Thyholm"
+	},
+	"institution_name":"Erhvervsakademi SydVest"
+},
+{
+	"id":1,
+	"first_name":"Sofie",
+	"last_name":"Bonde",
+	"CPR":"0209019224",
+	"date_of_birth":"2001-09-02",
+	"email":"SofieBonde1@gmail.com",
+	"address":{
+		"street":"Appenæshoved",
+		"number":"340",
+		"zip_code":"1052",
+		"city":"København"
+	},
+	"institution_name":"KEA - Københavns Erhvervsakademi"
+},
+{
+	"id":2,
+	"first_name":"Emil",
+	"last_name":"Bjerregaard",
+	"CPR":"1104041587",
+	"date_of_birth":"2004-04-11",
+	"email":"EmilBjerregaard2@gmail.com",
+	"address":{
+		"street":"Albanivej",
+		"number":"398 23. th.",
+		"zip_code":"1054",
+		"city":"København"
+	},
+	"institution_name":"Smart Learning"
+},
+{
+	"id":3,
+	"first_name":"Bob",
+	"last_name":"Bjerre",
+	"CPR":"0200597322",
+	"date_of_birth":"1959-00-02",
+	"email":"BobBjerre3@gmail.com",
+	"address":{
+		"street":"Anemonevej",
+		"number":"409",
+		"zip_code":"7840",
+		"city":"Højslev"
+	},
+	"institution_name":"Erhvervsakademi Dania"
+},
+{
+	"id":4,
+	"first_name":"Noah",
+	"last_name":"Bjerregård",
+	"CPR":"3712035182",
+	"date_of_birth":"2003-12-37",
+	"email":"NoahBjerregård4@gmail.com",
+	"address":{
+		"street":"Attebjergvej",
+		"number":"210",
+		"zip_code":"7742",
+		"city":"Vesløs"
+	},
+	"institution_name":"Erhvervsakademi SydVest"
+},
+{
+	"id":5,
+	"first_name":"Eve",
+	"last_name":"Bendtsen",
+	"CPR":"0701598561",
+	"date_of_birth":"1959-01-07",
+	"email":"EveBendtsen5@gmail.com",
+	"address":{
+		"street":"Askevej",
+		"number":"134 8. th.",
+		"zip_code":"1055",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi SydVest"
+},
+{
+	"id":6,
+	"first_name":"Clara",
+	"last_name":"Bak",
+	"CPR":"0310039087",
+	"date_of_birth":"2003-10-03",
+	"email":"ClaraBak6@gmail.com",
+	"address":{
+		"street":"Agervej",
+		"number":"426",
+		"zip_code":"1053",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi Sjælland"
+},
+{
+	"id":7,
+	"first_name":"Oliver",
+	"last_name":"Bach",
+	"CPR":"1302961814",
+	"date_of_birth":"1996-02-13",
+	"email":"OliverBach7@gmail.com",
+	"address":{
+		"street":"Apotekerstræde",
+		"number":"60",
+		"zip_code":"1061",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi SydVest"
+},
+{
+	"id":8,
+	"first_name":"Anna",
+	"last_name":"Bjerregård",
+	"CPR":"2711824365",
+	"date_of_birth":"1982-11-27",
+	"email":"AnnaBjerregård8@gmail.com",
+	"address":{
+		"street":"Ageren",
+		"number":"191",
+		"zip_code":"1061",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademiet Copenhagen Business Academy 101605"
+},
+{
+	"id":9,
+	"first_name":"Sofie",
+	"last_name":"Berthelsen",
+	"CPR":"2810037585",
+	"date_of_birth":"2003-10-28",
+	"email":"SofieBerthelsen9@gmail.com",
+	"address":{
+		"street":"Anemonevej",
+		"number":"32",
+		"zip_code":"7790",
+		"city":"Thyholm"
+	},
+	"institution_name":"Erhvervsakademi Dania"
+}
+]

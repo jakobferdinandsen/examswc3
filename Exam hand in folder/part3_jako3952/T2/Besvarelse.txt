@@ -1,0 +1,15 @@
+The result is found in t2_jako3952.txt
+
+Salting is basicly adding a custom String to some input before 
+encrypting it. This is to prevent having two encrypted inputs to have 
+the same hash value. Fx. 2 users with the same password cant have the 
+same password hash as the salt is mostly random. This prevents them 
+being put into a lookup table under the same hash even though the 
+password is the same.
+
+DKGuldIHaandbold is really not a good string to use for salting, as it 
+is static and the salt should preferably be random. A static salt 
+wouldn't prevent the 2 users with the same password having the same 
+hashed password.
+
+Random characters and symbols would be way better.

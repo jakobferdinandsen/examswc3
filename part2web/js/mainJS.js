@@ -1,31 +1,51 @@
-var bankApi = "http://52.57.228.6/man2API/php/BankPhp.php?";
-var apiKey = "954606b55f60b15dce668a568fef1ade";
-
-//DATA REFRESH INTERVALS
-var interval;
-var forceUpdate;
+var url = "http://localhost:10000/php/getStud.php";
+var studentArray = [];
 
 $(document).ready(function () {
-    //Submit offer listener
-    $("#createOfferButton").click(function () {
-        submitOffer($("#createOfferInput").val());
+    loadData();
+    $('#tableBody').on('click', 'td', function () {
+        if ($(this).attr('data') == '') {
+            $(this).attr('data', $(this).val());
+            $(this).val('hidden');
+        } else {
+            $(this).val($(this).attr('data'));
+            $(this).attr('data', '');
+        }
     });
-
-    //Change API key listener
-    $("#changeApiKeyButton").click(function () {
-        setApiKey($("#changeApiKeyInput").val());
-    });
-
-    //Loads account data, forced here in case getOffers() is slow
-    getAccountData();
-
-    //Initial loading of offer data
-    getOffers();
-
-    //Calls getOffers every 3 seconds
-    interval = setInterval(getOffers, 3000);
-
-    //Calls getOffers with update = true to force update every 4 minutes.
-    // This is to avoid 5 minute old data on the page as getOffers doesnt update page content if there are no updates
-    forceUpdate = setInterval("getOffers(true)", 240000);
 });
+
+function updateView() {
+    $("#tableBody").html("");
+    studentArray.forEach(function (student) {
+        createTRHtml(student);
+    });
+}
+
+function loadData() {
+    $.ajax({
+        method: "GET",
+        url: url,
+        dataType: "json",
+        success: function (data) {
+            studentArray = data;
+            updateView();
+        },
+    });
+}
+
+function createTRHtml(student) {
+    var offerHtml = "<tr>" +
+        "<td data=''>" + student.id + "</td>" +
+        "<td data=''>" + student.first_name + "</td>" +
+        "<td data=''>" + student.last_name + "</td>" +
+        "<td data=''>" + student.CPR + "</td>" +
+        "<td data=''>" + student.date_of_birth + "</td>" +
+        "<td data=''>" + student.email + "</td>" +
+        "<td data=''>" + student.institution_name + "</td>" +
+        "<td data=''>" + student.address.street + "</td>" +
+        "<td data=''>" + student.address.number + "</td>" +
+        "<td data=''>" + student.address.zip_code + "</td>" +
+        "<td data=''>" + student.address.city + "</td>" +
+        "</tr>";
+    $("#tableBody").append(offerHtml)
+}

@@ -1,0 +1,152 @@
+[
+{
+	"id":0,
+	"first_name":"oHLvi1MW3Gs0EIMCpx6hLg==",
+	"last_name":"1fPvy0x2g/S17drhaWoJUg==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli8bGoiOJFEa57VrBb1C+f4A=",
+	"date_of_birth":"1904-61-39",
+	"email":"SofiaBertelsen0@Bertelsenemailhost.com",
+	"address":{
+		"street":"Ankervej",
+		"number":"122",
+		"zip_code":"7790",
+		"city":"Thyholm"
+	},
+	"institution_name":"Erhvervsakademiet Copenhagen Business Academy 101605"
+},
+{
+	"id":1,
+	"first_name":"fxsCi7L3urzczdmQ0zTGBA==",
+	"last_name":"JQ/jAzZllHsd53mdh0pS0A==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli3TCyY8bYNdjhh9r9G8ujh0=",
+	"date_of_birth":"1922-54-42",
+	"email":"MathildeBeck1@Beckemailhost.com",
+	"address":{
+		"street":"Askevænget",
+		"number":"77",
+		"zip_code":"7742",
+		"city":"Vesløs"
+	},
+	"institution_name":"Erhvervsakademi Aarhus"
+},
+{
+	"id":2,
+	"first_name":"7D/MhRGr67T+X2uaeThFIw==",
+	"last_name":"tF6zrADMA9k78fZ/4s+hfQ==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli4FVnXg7pGDSd5j7cIbGAOY=",
+	"date_of_birth":"1953-13-95",
+	"email":"EmilBerthelsen2@Berthelsenemailhost.com",
+	"address":{
+		"street":"Appenæshoved",
+		"number":"218",
+		"zip_code":"7840",
+		"city":"Højslev"
+	},
+	"institution_name":"EA Kolding"
+},
+{
+	"id":3,
+	"first_name":"S8Ypbfk/AaDlhEDpED1hJQ==",
+	"last_name":"t/WBCum8O+zX1n9957X7XQ==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli/n0WIV2u7DH8ybhrWhIiP8=",
+	"date_of_birth":"1978-75-06",
+	"email":"IdaBech3@Bechemailhost.com",
+	"address":{
+		"street":"Agertoften",
+		"number":"66",
+		"zip_code":"7760",
+		"city":"Hurup"
+	},
+	"institution_name":"Erhvervsakademi SydVest"
+},
+{
+	"id":4,
+	"first_name":"4GnNsMXrogp9YrPVvQWrOw==",
+	"last_name":"t/WBCum8O+zX1n9957X7XQ==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli2ykdxQWRSrS00X9MtIOAxo=",
+	"date_of_birth":"1934-73-29",
+	"email":"WilliamBech4@Bechemailhost.com",
+	"address":{
+		"street":"Amtmandsstien",
+		"number":"306",
+		"zip_code":"7742",
+		"city":"Vesløs"
+	},
+	"institution_name":"KEA - Københavns Erhvervsakademi"
+},
+{
+	"id":5,
+	"first_name":"oHLvi1MW3Gs0EIMCpx6hLg==",
+	"last_name":"BstNA4UlAXeyotot5CtbEg==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli64V4oJCBLZsLurQ/boViu0=",
+	"date_of_birth":"1916-05-99",
+	"email":"SofiaBonde5@Bondeemailhost.com",
+	"address":{
+		"street":"Ankervej",
+		"number":"264",
+		"zip_code":"7850",
+		"city":"Stoholm"
+	},
+	"institution_name":"Erhvervsakademiet Lillebælt"
+},
+{
+	"id":6,
+	"first_name":"zQFepsvJF+UqB92w6p0/zw==",
+	"last_name":"ahmeCnGMyU47lcSw9HZ2Aw==",
+	"CPR":"meJUeUMUPy1TUKrwQvmlizUVWPSusFo0LOCxnzjTFTA=",
+	"date_of_birth":"1944-95-36",
+	"email":"IsabellaAndersen6@Andersenemailhost.com",
+	"address":{
+		"street":"Anneksvej",
+		"number":"447",
+		"zip_code":"1051",
+		"city":"København"
+	},
+	"institution_name":"EA MidtVest"
+},
+{
+	"id":7,
+	"first_name":"S8Ypbfk/AaDlhEDpED1hJQ==",
+	"last_name":"IMpW5UgcBXNLnHQ5y/dn9g==",
+	"CPR":"meJUeUMUPy1TUKrwQvmliyocEJ0qY2l7DDRibem8wTQ=",
+	"date_of_birth":"1989-51-14",
+	"email":"IdaBisgaard7@Bisgaardemailhost.com",
+	"address":{
+		"street":"Anlægsvej",
+		"number":"149",
+		"zip_code":"1052",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi Aarhus"
+},
+{
+	"id":8,
+	"first_name":"fxsCi7L3urzczdmQ0zTGBA==",
+	"last_name":"EGGQr4WPezDmS9z9/XnC5A==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli8+KuFucBDtca8sZ5+a+DrE=",
+	"date_of_birth":"1981-53-93",
+	"email":"MathildeAndersson8@Anderssonemailhost.com",
+	"address":{
+		"street":"Askevej",
+		"number":"427",
+		"zip_code":"1056",
+		"city":"København"
+	},
+	"institution_name":"Erhvervsakademi Dania"
+},
+{
+	"id":9,
+	"first_name":"CIY4XgE59hJLkoDJK1+zPQ==",
+	"last_name":"BstNA4UlAXeyotot5CtbEg==",
+	"CPR":"meJUeUMUPy1TUKrwQvmli3Q6xgTVQHP97CkPeE7j9Sk=",
+	"date_of_birth":"1942-50-13",
+	"email":"LauraBonde9@Bondeemailhost.com",
+	"address":{
+		"street":"Abildhøj",
+		"number":"413",
+		"zip_code":"1054",
+		"city":"København"
+	},
+	"institution_name":"KEA - Københavns Erhvervsakademi"
+}
+]

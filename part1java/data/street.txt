@@ -1,0 +1,799 @@
+Abildhøj
+Abrikosvej
+Adelsvej
+Ageren
+Agertoften
+Agervej
+Ahornvej
+Albanivej
+Alfehøjen
+Amtmandsstien
+Anemonevej
+Ankervej
+Anlægsvej
+Anneksvej
+Apotekerstræde
+Appenæs Bygade
+Appenæshoved
+Appenæs Åvej
+Askevej
+Askevænget
+Askovvej
+Assensvej
+Attebjergvej
+Atterbakkevej
+Axelhusparkeringen
+Axelsvej
+Axeltorv
+Bag Bakkerne
+Baggesensvænge
+Bakkekammen
+Bakkemosevej
+Bakken
+Bakkevej
+Baldersvej
+Banegårdspladsen
+Banely
+Banetoften
+Banevej
+Banevænget
+Basnæsvej
+Bassinbuen
+Bataljonsvej
+Baunevej
+Bekkasinvej
+Bellisvej
+Birgittevej
+Birkebjerg Alle
+Birkehegnet
+Birkevej
+Birkevænget
+Birkholmvej
+Bistrupgade
+Bistrupvej
+Bjergvej
+Blangslevvej
+Blegdammen
+Blegebjergvej
+Blommevej
+Blomstergården
+Blåbærvænget
+Bogensevej
+Bogøvej
+Bolbrovej
+Bonderupvej
+Borupsmindevej
+Borupvej
+Brandelev Lodder
+Brandelev Stationsvej
+Brandtsgade
+Brinken
+Brogade
+Brolæggervænget
+Brombærvej
+Brorsonsvænge
+Brygvej
+Bultevej
+Bygvænget
+Bystævnet
+Byvej
+Bækgårdsvej
+Bødkervænget
+Bøgebakkevej
+Bøgeparken
+Bøgesøvej
+Bøgevænget
+Bøssevænget
+Bøttekildevej
+Bådebyggervej
+Carl Nielsens Vej
+Cavilas Gård
+Chr Winthers Vej
+Daddelvej
+Dalumvej
+Danavej
+Dania
+Dehnsvej
+De Lodne Højder
+Depotvej
+Diegårdsvej
+Digevej
+Dokken
+Drachmannsvænge
+Draget
+Dragonvej
+Drejøvej
+Drosselvænget
+Duelundsvej
+Duesvej
+Dværghøjen
+Dybsøvej
+Dyrnæsvej
+Dysagervej
+Dyssegårdsvej
+Edith Rodes Vej
+Efterårsvej
+Egebjergvej
+Egemosevej
+Egernvej
+Egeskovvej
+Egevej
+Egevænget
+Egholmvej
+Ejbyvej
+Ejlersvej
+Elektrikervænget
+Elektrovej
+Ellebækhøj
+Ellebækvej
+Ellevang
+Ellevej
+Elmeparken
+Elmevej
+Elverdalen
+Elverhøjsvej
+Enebærvej
+Enebærvænget
+Engdraget
+Enggårdsvej
+Enghavevej
+Englebjergvej
+Engmosevej
+Engvej
+Enighedsvej
+Erantisvej
+Eskadronsvej
+Eskemosevej
+Evensvej
+Ewaldsvænge
+Fabriksvej
+Fagotvej
+Falkevej
+Falstersvej
+Farimagsvej
+Farvergade
+Fasanvej
+Faunedalen
+Fejøvej
+Femøvej
+Fensmarkvej
+Ferskenvej
+Figenvej
+Fiskerhusvej
+Fixvej
+Fjellebrovej
+Fjordbakken
+Fjordtoften
+Fjordvangen
+Fjordvej
+Fjordvænget
+Fladsågårdsvej
+Fladså Løjed
+Fladsåvej
+Flagspættevej
+Flintemosevej
+Flinten
+Flinteøksen
+Flinttoftevej
+Fløjtevej
+Fodbygade
+Fodbygårdsvej
+Folden
+Forsytiavej
+Forårsvej
+Fredensvej
+Frederiksvej
+Fredsskovvej
+Frejasvej
+Friggasvej
+Frihedsvej
+Frøstjernevej
+Fuglevænget
+Fynsvej
+Fyrreparken
+Fyrrevænget
+Fælledvej
+Fællesejevej
+Fønixtorvet
+Førslevvej
+Fåborgvej
+Fårupvej
+Gadevang
+Galaksevej
+Gallemarksvej
+Gammel Holstedvej
+Gammel Skovridervej
+Gammelvænget
+Gardehusarvej
+Garnisonsvej
+Gartnervej
+Gavnø
+Gavnøvej
+Gedebjergvej
+Georg Brandes Vej
+Georgsvej
+Gerdrupvej
+Glarmestervænget
+Glentevej
+Godthåbs Alle
+Gormsvej
+Gottliebsvej
+Gramsvej
+Granparken
+Gravlundsvænge
+Grevensvængevej
+Grimstrupvej
+Grundtvigsvej
+Grøftestykkerne
+Grønlandsvej
+Grønnebjergvej
+Grønnegade
+Grønnegården
+Grønvej
+Guderupvej
+Gustav Wieds Vej
+Gyvelvej
+Gækhøjvej
+Gødsholmvej
+Gøgestien
+Halfdan Rasmussens Vej
+Hammer Bakker
+Hammer Præstemark
+Hammer Skolevej
+Hammervej
+Hammervænget
+Handelsskolevej
+Hans Hornemanns Vej
+Hans Lykkes Vej
+Harrested Skovvej
+Hasehøjvej
+Hasselvej
+Hasselvænget
+Hautvej
+Havevej
+Havnegade
+Havnen
+Havnskovvej
+Havrebjergvej
+Havrevænget
+H C Andersens Vej
+H C Lumbyes Vej
+Hedetoften
+Heibergsvænge
+Heimdalsvej
+Hejrevej
+Heksehøjen
+Helgenæsvej
+Helgesvej
+Helleristen
+Herlufsholm Alle
+Herlufsholmvej
+Herlufshøj
+Herlufsvej
+Herlufsvænge
+Herluf Trolles Vej
+Herman Bangs Vej
+Hermansensvej
+Hf. Nygård
+Hindbærvej
+Hjarnøvej
+Hjorthøjvej
+Hjortøvej
+Hjultorv
+Holbergsvej
+Holløse Kærvej
+Holløse Mølle Vej
+Holløsevej
+Holmevej
+Holsted Alle
+Holsted Park
+Horsebjergvej
+Hostrupsvænge
+Houmannsvej
+Hovedgaden
+Humlevej
+Hvedevænget
+Hvidtjørnevej
+Hybenvej
+Hyllinge Stationsvej
+Højbjergvej
+Højen
+Indre Vordingborgvej
+Industribuen
+Industrivangen
+Industrivej
+Ingemannsvej
+Irisvej
+Ishøjvej
+Ivar Hvidtfeldts Vej
+Jacobshavn
+Jagtvej
+Jarsskovvej
+Jasminvej
+Jenstrupvej
+Jeppe Åkjærs Vej
+Jernbanegade
+Jernbuen
+Jeshøjvej
+Johanne Korchs Vej
+Jyllandsvej
+Jægervej
+Jættestuen
+Jørgen Jensens Vej
+Jørgen Vinds Vej
+Kaj Munks Vej
+Kalbyrisvej
+Kalsagervej
+Kanalvej
+Kappelgårde
+Karrebækvej
+Kasernevej
+Kastanievej
+Kastanievænget
+Katholmvej
+Katrinelundsvej
+Kattebjerg
+Kegnæsvej
+Keramikvej
+Kildebakken
+Kildemarksvej
+Kilden
+Kildevej
+Kildevænget
+Kindhestegade
+Kingosvænge
+Kirkebjergvej
+Kirkeskovvej
+Kirkestræde
+Kirkevej
+Kirsebærvej
+Kjeld Abells Vej
+Kjærvej
+Klarinetvej
+Klintebyvænge
+Kløvervej
+Knohammervej
+Knoldevej
+Kodrivervej
+Kohavevej
+Kolsbjergvej
+Kometvej
+Kommandantvej
+Kompagnistræde
+Kongshøjvej
+Kongsnæsvej
+Korinthvej
+Kornbakken
+Kornbuen
+Korshøjgårdsvej
+Kragenæsvej
+Krogagervej
+Krogen
+Krumport
+Krømlingevej
+Kuhlaus Vej
+Kvislemarkvej
+Kvægtorvet
+Kyse Bygade
+Kyse Markvej
+Kyse Overdrevs Vej
+Kählersbakken
+Kählersvej
+Kærlighedsstien
+Kærmindevej
+Køberupvej
+Købmagergade
+Køgevej
+La Cour Vej
+Ladby Longvej
+Ladbystræde
+Ladbyvej
+Ladbyvænge
+Landevejen
+Langdyssen
+Langelandsvej
+Langetoftevej
+Leif Panduros Vej
+Lerbæk Huse
+Lethsvej
+Lille Bakkevej
+Lille Gallemarksvej
+Lillemarken
+Lille Solvej
+Lille Tvedevej
+Lille Vallensvedvej
+Lillevang
+Lillevej
+Lindbjergvej
+Lindebjerggårdsvej
+Lindenovvej
+Lindeparken
+Lindevej
+Lindevænget
+Lindholmvej
+Lodden
+Lollandsvej
+Lov Enghavevej
+Lov Sønderskov
+Lovvej
+Lovvænget
+Lunavej
+Lund Møllevej
+Lundvej
+Lupinvej
+Lyngbakken
+Lyngstien
+Lynæsvej
+Lyøvej
+Lærkevej
+Lærkevænget
+Læsøvej
+Maglegårdsvej
+Maglemølle
+Magnoliavej
+Malervænget
+Maltvej
+Manglebjergvænget
+Manøvej
+Marie Bregendahls Vej
+Mariedalsvej
+Marievej
+Marinebuen
+Markmandsvej
+Markstien
+Marskvej
+Marvedevej
+Meistersvej
+Mejerivej
+Mejsevænget
+Menstrup Bygade
+Menstrupvej
+Menstrupvænge
+Merkurvej
+Messebuen
+Meteorvej
+Militærsvinget
+Militærvej
+Mogenstrup Parkvej
+Mogenstrup Vænge
+Morelvej
+Morsøvej
+Mosevej
+Murervænget
+Musvågevej
+Mynstersvænge
+Myrup Bankevej
+Myrupvej
+Mælkevejen
+Møllegade
+Møllegårdsvej
+Møllevangsvej
+Møllevej
+Møllevænget
+Møntergade
+Mågevej
+Mågevænget
+Nashøjvej
+Nellikevej
+Niels Juels Vej
+Niels W Gades Vej
+Nissehøjen
+Nixvej
+Nordlundsvej
+Nordre Farimagsvej
+Norgesvej
+Nyborgvej
+Nygade
+Nygårdsvej
+Ny Holstedvej
+Ny Jernbanevej
+Nylandsvej
+Ny Præstøvej
+Nyskovvej
+Nyvej
+Næstelsø Kirkestræde
+Næstelsø Præstemark
+Næstved Storcenter
+Nøddehegnet
+Nørregade
+Obovej
+Odensevej
+Odinsvej
+Olufsvej
+Omøvej
+Oppermannsvej
+Orenæsvej
+Orionvej
+Oskarsvej
+Ostenfeldtsvej
+Otiumsvej
+Ottegårdsvej
+Otterupvej
+Ovnsbjergvej
+Paludansvænge
+Parkbrynet
+Parkvej
+Parkvænget
+Parsbergvej
+Peder Bodils Vej
+Pederstrupvej
+Peder Syvs Vej
+Piet Heins Vej
+Pilegårdsvej
+Pilevej
+Plantagevej
+Plantevej
+Platan Alle
+Podevej
+Poppelvej
+Poppelvænget
+Primulavej
+Profilbuen
+Præsteengen
+Præstelod Huse
+Præstelundsvej
+Præstemarken
+Præstestræde
+Præstø Landevej
+Præstøvej
+Pærevænget
+Rampen
+Ramsherred
+Rappenborgvej
+Refsnæsvej
+Regnbuen
+Reistrupvej
+Rettestrupvej
+Riddergade
+Ringstedgade
+Ringvej
+Risegårdsvej
+Rislevvej
+Roarsvej
+Rolighedsvej
+Rosenvej
+Rugvænget
+Runddyssen
+Runestenen
+Ryttervej
+Ryttervænget
+Ræveagrene
+Rødehusvej
+Rødtjørnevej
+Rømøvej
+Rønnebæksholm
+Rønneparken
+Rønnevej
+Røsnæsvej
+Råddamsvej
+Rådekrogvej
+Rådmandsengen
+Rådmandshaven
+Sagasvej
+Saltø Skovvænge
+Saltøvej
+Samsøvej
+Sandageren
+Sandbakken
+Sandbakkevej
+Sandholmsvej
+Satellitvej
+Sct Jørgens Park
+Sct Mortens Gade
+Sct Peders Kirkeplads
+Sjællandsvej
+Sjølundshøj
+Skallegårdsvej
+Skellet
+Skjoldborgsvænge
+Skolestien
+Skolevej
+Skomagerrækken
+Skomagerstræde
+Skovagervej
+Skovalle
+Skovbovej
+Skovbrynet
+Skovburren
+Skovduevej
+Skovfogedvej
+Skovholmvej
+Skovhøjen
+Skovkanten
+Skovkilden
+Skovlyvej
+Skovmøllevej
+Skovmølle Vænge
+Skovstjernevej
+Skovsyrevej
+Skovvænget
+Skrædderbakken
+Skrænten
+Skråvej
+Skydebanevej
+Skyttemarksvej
+Skyttestræde
+Skyttevænget
+Skælskørvej
+Skårenvej
+Slagelsevej
+Slagkildevej
+Slettevej
+Slåenvej
+Smallegade
+Smedevangen
+Smedevej
+Smedevænget
+Snedkervænget
+Sneppevej
+Snerlevej
+Sneserevej
+Snoghøjen
+Sofiedalsvej
+Solagervej
+Solbakkevej
+Solbærvej
+Solsikkevej
+Solvangsvej
+Solvej
+Sortebrødregade
+Sorøvej
+Spiræavej
+Spjellerup Bygade
+Spjellerupvej
+Spurvevænget
+Stations Alle
+Steen Blichers Vej
+Stejlehøjen
+Stenholmvej
+Stenhusvænge
+Stenlunden
+Stenlængevej
+Stensgårdsvej
+Stenskovvej
+Stenstrup Mose
+Sterkelsvej
+Stigbanken
+Stigsnæsvej
+Stikvej
+Stivej
+Storskovvej
+Strandbakken
+Strandgårdsvej
+Strynøvej
+Strædet
+Stubberupvej
+Størlingevej
+Susåvej
+Svalehøjen
+Svalevænget
+Svendborgvej
+Svenstrupvej
+Svingelen
+Svinget
+Syrenvej
+Sønderbyvej
+Søndergade
+Søndergårdsvej
+Sønderhavevej
+Søndernæsvej
+Søndervang
+Søndervej
+Søvej
+Tagensvej
+Tarupvej
+Teatergade
+Teglvænget
+Teglværksvej
+Tekstilbuen
+Terbakkevej
+Thit Jensens Vej
+Thorsvej
+Thurøvej
+Tjurvej
+Tjørnevænget
+Toftegårdsvej
+Toften
+Toftevej
+Toldbodgade
+Toldbuen
+Tolsbjergvej
+Tommerupvej
+Tornemarksvej
+Torupvej
+Torvestræde
+Tove Ditlevsens Vej
+Tranevej
+Transportbuen
+Trekanten
+Trettenstykkerne
+Troensevej
+Troldebjergvej
+Troldehøjen
+Trompetvej
+Tropavænget
+Tubavej
+Tudsebjergvej
+Tuesensvej
+Tulipanvej
+Tulvej
+Tvedevængevej
+Tværvej
+Tystemosevej
+Tømrervænget
+Tåstrupvej
+Udsigtsbakken
+Uffesvej
+Uglehusene
+Uglehøjvej
+Vadestedet
+Vagtelvej
+Valengen
+Vallensved Bygade
+Vallensvedvænge
+Valmosevej
+Valmuevej
+Valnæsvej
+Vasebrovej
+Ved Dæmningen
+Ved Even
+Ved Fjorden
+Ved Kilden
+Ved Kæret
+Ved Skolen
+Ved Skoven
+Ved Stadion
+Ved Åsen
+Vejløvej
+Vemmenæsvej
+Vennevej
+Vester Egesborgvej
+Vestergårdsvej
+Vestervej
+Vestre Kaj
+Vestre Kærvej
+Vestre Mellemkaj
+Vibevænget
+Vindsmindevej
+Vinhusgade
+Vinkelvej
+Violvej
+Virkelyst
+Vordingborg Landevej
+Vordingborgvej
+Vornæsvej
+Vridsløsevej
+Værkstedsvej
+Vættehøjen
+Væverstræde
+Wesselsvej
+Ydre Kalbyrisvej
+Ydunsvej
+Yrsavej
+Æblevænget
+Ægirsvej
+Ærtebjergvej
+Ærøvej
+Øllerupvej
+Ørnevej
+Østergade
+Østergårdsvej
+Østerskovvej
+Østervej
+Østre Kapelvej
+Østre Kærvej
+Østre Mellemkaj
+Østre Ringvej
+Øverup Alle
+Øverup Erhvervsvej
+Øverup Krog
+Øverupvej
+Åbakken
+Ådalen
+Åderupvej
+Ågade
+Ålestokvej
+Åstien
+Åtoften
+Åvej
+Åvænget
